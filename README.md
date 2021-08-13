@@ -6,5 +6,5 @@
 # - Andy
 # - Tio Kristian
 
-# Entrepreneurship Task/Project in 3rd Semester
+# Software Task/Project in 4th Semester
 # Universitas Bina Nusantara
