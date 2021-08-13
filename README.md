@@ -6,5 +6,5 @@
 # - Andy
 # - Tio Kristian
 
-# Software Task/Project in 4th Semester
+# Software Engineering Task/Project in 4th Semester
 # Universitas Bina Nusantara
